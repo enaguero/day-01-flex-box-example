@@ -1,0 +1,24 @@
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+  
+.box .header {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+.box .body {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+
+.box .footer {
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+}
